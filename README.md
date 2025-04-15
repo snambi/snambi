@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @snambi
 - 👀 I’m interested in ... decentralized commerce, NLP, ocr, digital payments, blockchain
-- 🌱 I’m currently learning ... reactjs, javascript, c++, kotlin
+- 🌱 I’m currently learning ... kubernetes internals, golang, python
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... @snambi
 
